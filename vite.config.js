@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: '/dog-nutrition-pwa/',   // <-- 這行很重要
   plugins: [react()],
 })
