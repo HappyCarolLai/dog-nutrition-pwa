@@ -1,16 +1,11 @@
 {
   "name": "狗狗鮮食計算機",
-  "short_name": "狗狗鮮食",
-  "start_url": "/",
+  "short_name": "狗狗鮮食計算機",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
-        {
-      "src": "/logo_32x32.ico",
-      "sizes": "32x32",
-      "type": "image/x-icon"
-    },
     {
       "src": "/logo_192x192.png",
       "sizes": "192x192",
